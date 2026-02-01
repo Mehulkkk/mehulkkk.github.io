@@ -1,8 +1,8 @@
-<!DOCTYPE html>
 <html lang="en" class="scroll-smooth">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mehul Kumar Sinha | Data Engineer & Architect</title>
     <meta name="description" content="Portfolio of Mehul Kumar Sinha - Data Engineer at Eucloid, Databricks Certified, specializing in scalable data pipelines and full-stack development.">
     
     <script src="https://cdn.tailwindcss.com"></script>
